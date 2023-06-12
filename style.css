@@ -21,7 +21,7 @@ header{
     text-decoration: none;
 }
 
-header img {
+header .logo {
     height:40px;
     width: 120px;
     margin: 25px 0 0 10px;
