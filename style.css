@@ -18,10 +18,20 @@ header{
     background-color: #4ea0ff;
     background-position: center;
     margin: auto;
+    text-decoration: none;
 }
 
 header img {
     height:40px;
     width: 120px;
     margin: 25px 0 0 10px;
+}
+
+header h1{
+    margin: 10px 0 0 0;
+}
+
+header span{
+    color:grey;
+    margin: 0;
 }
